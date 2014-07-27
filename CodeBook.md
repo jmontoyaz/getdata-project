@@ -1,5 +1,5 @@
 ## Variables:
-"activity"                    : int
+  "activity"                    : int
 "subjectid"                   : int
 "tBodyAcc.mean.X"             : num
 "tBodyAcc.mean.Y              : num

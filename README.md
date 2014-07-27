@@ -1,4 +1,5 @@
 # Getting and Cleaning Data
+The present directory contains the solutions for the project on cleaning-and-getting-data 05.
 
 ## Course Project 
 
@@ -10,7 +11,7 @@ You should create one R script called run_analysis.R that does the following.
 4. Appropriately labels the data set with descriptive activity names.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-
-## Dependencies
-
-The ```run_analysis.R``` script will help you to automatically install any dependencies needed, i.e. ```data.table``` library. 
+## Project setup
+1. Download the ```UCI HAR Dataset``` under the ```data``` directory. The ```run_analysis.R``` script assumes all the data is placed in this directory.
+2. Place the  ```run_analysis.R``` script in the parent directory of the ```data``` directory and set it as  your working directory using ```setwd()```.
+3. Use ```source("run_analysis.R")``` to run the script and store the results in a ```.txt``` file.

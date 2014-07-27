@@ -10,3 +10,7 @@ You should create one R script called run_analysis.R that does the following.
 4. Appropriately labels the data set with descriptive activity names.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+
+## Dependencies
+
+The ```run_analysis.R``` script will help you to automatically install any dependencies needed, i.e. ```data.table``` library. 

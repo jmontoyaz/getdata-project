@@ -1,6 +1,6 @@
 ## Variables:
-$activity                     : int
-$subjectid                    : int
+$ activity                     : int
+$ subjectid                    : int
 $tBodyAcc.mean.X              : num
 $tBodyAcc.mean.Y              : num
 $tBodyAcc.mean.Z              : num

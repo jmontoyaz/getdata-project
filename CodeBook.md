@@ -1,10 +1,10 @@
 ## Variables:
-  "activity"                    : int
-"subjectid"                   : int
-"tBodyAcc.mean.X"             : num
-"tBodyAcc.mean.Y              : num
-"tBodyAcc.mean.Z              : num
-"tBodyAcc.std.X"              : num
+  "activity"                    : int  
+"subjectid"                   : int  
+"tBodyAcc.mean.X"             : num  
+"tBodyAcc.mean.Y              : num  
+"tBodyAcc.mean.Z              : num  
+"tBodyAcc.std.X"              : num  
 "tBodyAcc.std.Y"              : num
 "tBodyAcc.std.Z"              : num
 "tGravityAcc.mean.X"          : num

@@ -1,30 +1,30 @@
 ## Variables:
-"activity"                    : int
-"subjectid"                   : int
-"tBodyAcc.mean.X"             : num
-"tBodyAcc.mean.Y"             : num
-"tBodyAcc.mean.Z"             : num
-"tBodyAcc.std.X"              : num
-"tBodyAcc.std.Y"              : num
-"tBodyAcc.std.Z"              : num
-"tGravityAcc.mean.X"          : num
-"tGravityAcc.mean.Y"	        : num
-"tGravityAcc.mean.Z"          : num
-"tGravityAcc.std.X"           : num
-"tGravityAcc.std.Y"	          : num
-"tGravityAcc.std.Z"	          : num
-"tBodyAccJerk.mean.X"	        : num
-"tBodyAccJerk.mean.Y"	        : num
-"tBodyAccJerk.mean.Z"	        : num
-"tBodyAccJerk.std.X"          : num
-"tBodyAccJerk.std.Y"          : num
-"tBodyAccJerk.std.Z"          : num
-"tBodyGyro.mean.X"	          : num
-"tBodyGyro.mean.Y"	          : num
-"tBodyGyro.mean.Z"            : num
-"tBodyGyro.std.X"	            : num
-"tBodyGyro.std.Y"	            : num
-"tBodyGyro.std.Z"	            : num
+"activity                     : int
+"subjectid                    : int
+"tBodyAcc.mean.X              : num
+"tBodyAcc.mean.Y              : num
+"tBodyAcc.mean.Z              : num
+"tBodyAcc.std.X               : num
+"tBodyAcc.std.Y               : num
+"tBodyAcc.std.Z               : num
+"tGravityAcc.mean.X           : num
+"tGravityAcc.mean.Y 	        : num
+"tGravityAcc.mean.Z           : num
+"tGravityAcc.std.X            : num
+"tGravityAcc.std.Y 	          : num
+"tGravityAcc.std.Z 	          : num
+"tBodyAccJerk.mean.X 	        : num
+"tBodyAccJerk.mean.Y 	        : num
+"tBodyAccJerk.mean.Z 	        : num
+"tBodyAccJerk.std.X           : num
+"tBodyAccJerk.std.Y           : num
+"tBodyAccJerk.std.Z           : num
+"tBodyGyro.mean.X 	          : num
+"tBodyGyro.mean.Y 	          : num
+"tBodyGyro.mean.Z             : num
+"tBodyGyro.std.X 	            : num
+"tBodyGyro.std.Y 	            : num
+"tBodyGyro.std.Z 	            : num
 "tBodyGyroJerk.mean.X"        : num
 "tBodyGyroJerk.mean.Y"        : num
 "tBodyGyroJerk.mean.Z"	      : num
@@ -67,8 +67,16 @@
 "fBodyGyro.std.Z"             : num
 "fBodyGyro.meanFreq.X"        : num
 "fBodyGyro.meanFreq.Y"        : num
-"fBodyGyro.meanFreq.Z"	"fBodyAccMag.mean."	"fBodyAccMag.std."
-"fBodyAccMag.meanFreq."	"fBodyBodyAccJerkMag.mean."	"fBodyBodyAccJerkMag.std."	"fBodyBodyAccJerkMag.meanFreq."	"fBodyBodyGyroMag.mean."	"fBodyBodyGyroMag.std."	"fBodyBodyGyroMag.meanFreq."
+"fBodyGyro.meanFreq.Z"        : num
+"fBodyAccMag.mean."           : num
+"fBodyAccMag.std."            : num
+"fBodyAccMag.meanFreq."       : num
+"fBodyBodyAccJerkMag.mean."   : num
+"fBodyBodyAccJerkMag.std."    : num
+"fBodyBodyAccJerkMag.meanFreq."
+"fBodyBodyGyroMag.mean."      : num
+"fBodyBodyGyroMag.std."       : num
+"fBodyBodyGyroMag.meanFreq    : num
 "fBodyBodyGyroJerkMag.mean."
 "fBodyBodyGyroJerkMag.std."
 "fBodyBodyGyroJerkMag.meanFreq."

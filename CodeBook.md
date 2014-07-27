@@ -1,9 +1,6 @@
 ## Variables:
-Given the description of the exercise, the variables taken into consideration were:
-* mean()
-* std()
-
-Furthermore, the ```activities``` and ```subjectid``` were also included in the final result of the tidydaset. There are 6 main activities in the dataset which are: ```walking```, ```walking_upstairs```, ```walking_downstairs```, ```sitting```, ```standing```, and ```laying```. Furthermore, the ```subjectid``` represents the id of an individual perdforming an action.
+Given the description of the exercise, the variables taken into consideration were: ```mean()```, ```std()```.
+Furthermore, the ```activities``` and ```subjectid``` were also included in the final result of the tidydaset. There are 6 main activities in the dataset which are: ```walking```, ```walking_upstairs```, ```walking_downstairs```, ```sitting```, ```standing```, and ```laying```. In addition, the ```subjectid``` represents the id of an individual perdforming an action.
 
 
 "activity"                    : int  

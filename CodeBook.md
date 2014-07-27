@@ -1,5 +1,12 @@
 ## Variables:
-  "activity"                    : int  
+Given the description of the exercise, the variables taken into consideration were:
+* mean()
+* std()
+
+Furthermore, the activities and subjectid were also included in the final result of the tidydaset. There are 6 main activities in the dataset which are: walking, walking_upstairs, walking_downstairs, sitting, standing, and laying.
+
+
+"activity"                    : int  
 "subjectid"                   : int  
 "tBodyAcc.mean.X"             : num  
 "tBodyAcc.mean.Y              : num  
